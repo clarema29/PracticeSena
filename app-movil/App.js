@@ -178,7 +178,7 @@ const styles = StyleSheet.create({
     padding: 10
   },
   botonContainer: {
-    width: "100%",
+    width: "60%",
     borderRadius: 20,
     overflow: "hidden"
   },
@@ -188,7 +188,6 @@ const styles = StyleSheet.create({
   },
   registroTexto: {
     color: "black",
-    marginRight: 5
   },
   enlace: {
     color: "#19545d",
